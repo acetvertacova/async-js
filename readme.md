@@ -1,6 +1,6 @@
 # INDIVIDUAL WORK 2
 ## Description of the individual work:
-Title: "Captain Smith's Mini-App: Finding Activities to Enjoy"
+Title: "Captain Smith's Mini-App: Finding Activities to Enjoy".
 Objective: The aim of this lab assignment is to get familiarized with advanced JavaScript functionalities, including asynchronous JavaScript, modules, and error handling, by creating a mini-application for Captain Smith.
 
 ## Control questions:
@@ -9,9 +9,9 @@ The fetch method returns Promise that is why we have to use try/catch or async/a
 
 ii. What is a Promise?
 A Promise is a special object in JavaScript that represents the result of an asynchronous operation. It has three states:  
-⏳  pending 
-✅ fulfilled 
-❌ rejected
+⏳  pending;
+✅ fulfilled;
+❌ rejected;
 
 iii. What methods are available on the Promise object?
 Methods try, catch and finally are available on the Promise object.
