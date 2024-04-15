@@ -1,4 +1,4 @@
-# INDIVIDUAL WORK NR2
+# INDIVIDUAL WORK 2
 ## Description of the individual work:
 Title: "Captain Smith's Mini-App: Finding Activities to Enjoy"
 Objective: The aim of this lab assignment is to get familiarized with advanced JavaScript functionalities, including asynchronous JavaScript, modules, and error handling, by creating a mini-application for Captain Smith.
