@@ -3,12 +3,12 @@ INDIVIDUAL WORK NR2
 Title: "Captain Smith's Mini-App: Finding Activities to Enjoy"
 Objective: The aim of this lab assignment is to get familiarized with advanced JavaScript functionalities, including asynchronous JavaScript, modules, and error handling, by creating a mini-application for Captain Smith.
 
-##Control questions
+## Control questions:
 i. What value does the fetch return?
 The fetch method returns Promise that is why we have to use try/catch or async/await.
 
 ii. What is a Promise?
-A Promise is a special object in JavaScript that represents the result of an asynchronous operation. It has three states: 
+A Promise is a special object in JavaScript that represents the result of an asynchronous operation. It has three states:  
 ⏳  pending 
 ✅ fulfilled 
 ❌ rejected
